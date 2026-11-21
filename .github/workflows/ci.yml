@@ -1,0 +1,50 @@
+name: ResearchGap AI - tests and deploy readiness
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      matrix:
+        python-version: ['3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - name: Install production and test dependencies
+        run: python -m pip install -r requirements-dev.txt
+      - name: Compile the project
+        run: python -m compileall -q app.py researchgap examples
+      - name: Run all tests including real LangGraph and Streamlit AppTest
+        run: python -m pytest -q --cov=researchgap --cov-report=term-missing
+      - name: Real LangGraph end-to-end offline demo (no API keys)
+        run: python -m examples.demo_phase8_offline --require-langgraph --output-dir /tmp/researchgap-e2e
+      - name: Check Streamlit server health
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m streamlit run app.py --server.headless=true --server.port=8591 >/tmp/streamlit.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid" 2>/dev/null || true' EXIT
+          for i in $(seq 1 35); do
+            if curl -fsS http://127.0.0.1:8591/_stcore/health >/dev/null; then
+              echo 'Streamlit health check successful'
+              exit 0
+            fi
+            sleep 1
+          done
+          cat /tmp/streamlit.log
+          exit 1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: phase8-offline-evaluation
+          path: /tmp/researchgap-e2e
+          if-no-files-found: ignore

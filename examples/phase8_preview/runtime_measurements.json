@@ -1,0 +1,32 @@
+{
+  "mode": "sequential_offline_only_langgraph_not_installed",
+  "dataset": "3 fictional PDFs; NOT scientific evaluation",
+  "workflow_wall_seconds": 0.0023,
+  "agents_llm_usage": {
+    "model": "OFFLINE-FICTIONAL-SIMULATION-NOT-AI",
+    "calls": 5,
+    "failed_calls": 0,
+    "input_characters": 17131,
+    "output_characters": 4697,
+    "llm_latency_seconds": 0.0002,
+    "observed_input_tokens": null,
+    "observed_output_tokens": null,
+    "estimated_cost_usd": null,
+    "notes": "Cost requires API-reported token counts and explicit model pricing; excludes OpenAlex and other fees."
+  },
+  "baseline_llm_usage": {
+    "model": "fictional-offline-baseline",
+    "calls": 1,
+    "failed_calls": 0,
+    "input_characters": 3680,
+    "output_characters": 596,
+    "llm_latency_seconds": 0.0,
+    "observed_input_tokens": null,
+    "observed_output_tokens": null,
+    "estimated_cost_usd": null,
+    "notes": "Cost requires API-reported token counts and explicit model pricing; excludes OpenAlex and other fees."
+  },
+  "live_groq_calls": 0,
+  "live_openalex_calls": 0,
+  "real_scientific_accuracy_evaluated": false
+}

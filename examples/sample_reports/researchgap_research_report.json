@@ -1,0 +1,1150 @@
+{
+  "report_metadata": {
+    "title": "ResearchGap AI — Fictional Example Literature Report",
+    "author": "ResearchGap AI demo (fictional data)",
+    "generated_at_utc": "2026-11-12 12:00 UTC",
+    "novelty_established": false,
+    "human_review_required": true
+  },
+  "processing": {
+    "requested_count": 3,
+    "papers": [
+      {
+        "document_id": "ea6c02ae9371990a",
+        "sha256": "ea6c02ae9371990a6e3a320ab8dac224d5e9bc81a9c88cee5379c96fe2e3d73b",
+        "filename": "sample_education_rag.pdf",
+        "file_size_bytes": 2324,
+        "title": "Fictional Study A: Retrieval-Augmented Tutoring",
+        "page_count": 2,
+        "text_page_count": 2,
+        "total_characters": 712,
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Fictional Study A: Retrieval-Augmented Tutoring\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nResearch objective: Explore retrieval-augmented tutoring for undergraduate students. Methodology:\nThis fictional demonstration uses a small FAQ corpus and a simulated class. Dataset: 120 fabricated\nquestions. Finding: The mock system responded more consistently when relevant examples were\nsupplied. Limitation: No evaluation was conducted in Urdu.",
+            "character_count": 445
+          },
+          {
+            "page_number": 2,
+            "text": "Fictional Study A: Retrieval-Augmented Tutoring\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nDiscussion: For a real study, the investigator would require ethics review, a real dataset, human\nevaluation of factuality, and a comparison with an appropriate baseline.",
+            "character_count": 267
+          }
+        ],
+        "chunks": [
+          {
+            "chunk_id": "ea6c02ae9371990a:p1:c1",
+            "document_id": "ea6c02ae9371990a",
+            "page_number": 1,
+            "chunk_index": 1,
+            "start_char": 0,
+            "end_char": 445,
+            "text": "Fictional Study A: Retrieval-Augmented Tutoring\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nResearch objective: Explore retrieval-augmented tutoring for undergraduate students. Methodology:\nThis fictional demonstration uses a small FAQ corpus and a simulated class. Dataset: 120 fabricated\nquestions. Finding: The mock system responded more consistently when relevant examples were\nsupplied. Limitation: No evaluation was conducted in Urdu."
+          },
+          {
+            "chunk_id": "ea6c02ae9371990a:p2:c2",
+            "document_id": "ea6c02ae9371990a",
+            "page_number": 2,
+            "chunk_index": 2,
+            "start_char": 0,
+            "end_char": 267,
+            "text": "Fictional Study A: Retrieval-Augmented Tutoring\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nDiscussion: For a real study, the investigator would require ethics review, a real dataset, human\nevaluation of factuality, and a comparison with an appropriate baseline."
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "document_id": "a871ec156083989b",
+        "sha256": "a871ec156083989be383e878d3cb6e288d6fba741beba8af0ea1a59798b2cb35",
+        "filename": "sample_multilingual_learning.pdf",
+        "file_size_bytes": 2295,
+        "title": "Fictional Study B: Multilingual Educational Chatbot",
+        "page_count": 2,
+        "text_page_count": 2,
+        "total_characters": 686,
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Fictional Study B: Multilingual Educational Chatbot\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nResearch objective: Examine language support in education assistants. Methodology: A hypothetical\ninterface was evaluated with simulated English-language prompts. Dataset: 80 fabricated prompts.\nFinding: The fictional model gave inconsistent responses to code-switched prompts. Limitation: No\nreal-world user study was performed.",
+            "character_count": 430
+          },
+          {
+            "page_number": 2,
+            "text": "Fictional Study B: Multilingual Educational Chatbot\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nDiscussion: Code switching and Roman Urdu deserve explicit evaluation, but these toy examples\nalone cannot establish that a research gap is globally novel.",
+            "character_count": 256
+          }
+        ],
+        "chunks": [
+          {
+            "chunk_id": "a871ec156083989b:p1:c1",
+            "document_id": "a871ec156083989b",
+            "page_number": 1,
+            "chunk_index": 1,
+            "start_char": 0,
+            "end_char": 430,
+            "text": "Fictional Study B: Multilingual Educational Chatbot\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nResearch objective: Examine language support in education assistants. Methodology: A hypothetical\ninterface was evaluated with simulated English-language prompts. Dataset: 80 fabricated prompts.\nFinding: The fictional model gave inconsistent responses to code-switched prompts. Limitation: No\nreal-world user study was performed."
+          },
+          {
+            "chunk_id": "a871ec156083989b:p2:c2",
+            "document_id": "a871ec156083989b",
+            "page_number": 2,
+            "chunk_index": 2,
+            "start_char": 0,
+            "end_char": 256,
+            "text": "Fictional Study B: Multilingual Educational Chatbot\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nDiscussion: Code switching and Roman Urdu deserve explicit evaluation, but these toy examples\nalone cannot establish that a research gap is globally novel."
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "document_id": "9632237dbcacd62e",
+        "sha256": "9632237dbcacd62e1c58c1aa32cc6932f5e09238930fcaf59e30b4ca88387588",
+        "filename": "sample_student_feedback.pdf",
+        "file_size_bytes": 2261,
+        "title": "Fictional Study C: Automated Student Feedback",
+        "page_count": 2,
+        "text_page_count": 2,
+        "total_characters": 651,
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Fictional Study C: Automated Student Feedback\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nResearch objective: Study automated qualitative feedback on student writing. Methodology:\nCompare two fictional prompt designs using simulated assignments. Dataset: 60 fabricated writing\nsamples. Finding: The toy examples varied in feedback specificity. Limitation: No robustness tests or\nexternal validation were included.",
+            "character_count": 418
+          },
+          {
+            "page_number": 2,
+            "text": "Fictional Study C: Automated Student Feedback\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nDiscussion: Additional real data, transparent criteria, and human review would be necessary before\ndeploying an automated feedback system.",
+            "character_count": 233
+          }
+        ],
+        "chunks": [
+          {
+            "chunk_id": "9632237dbcacd62e:p1:c1",
+            "document_id": "9632237dbcacd62e",
+            "page_number": 1,
+            "chunk_index": 1,
+            "start_char": 0,
+            "end_char": 418,
+            "text": "Fictional Study C: Automated Student Feedback\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nResearch objective: Study automated qualitative feedback on student writing. Methodology:\nCompare two fictional prompt designs using simulated assignments. Dataset: 60 fabricated writing\nsamples. Finding: The toy examples varied in feedback specificity. Limitation: No robustness tests or\nexternal validation were included."
+          },
+          {
+            "chunk_id": "9632237dbcacd62e:p2:c2",
+            "document_id": "9632237dbcacd62e",
+            "page_number": 2,
+            "chunk_index": 2,
+            "start_char": 0,
+            "end_char": 233,
+            "text": "Fictional Study C: Automated Student Feedback\n\n\nSYNTHETIC EXAMPLE ? NOT A REAL RESEARCH PAPER\n\nDiscussion: Additional real data, transparent criteria, and human review would be necessary before\ndeploying an automated feedback system."
+          }
+        ],
+        "warnings": []
+      }
+    ],
+    "failures": []
+  },
+  "paper_analyses": {
+    "requested_count": 3,
+    "analyses": [
+      {
+        "document_id": "ea6c02ae9371990a",
+        "filename": "sample_education_rag.pdf",
+        "title": "Fictional Study A: Retrieval-Augmented Tutoring",
+        "title_source": "pdf_metadata",
+        "model": "OFFLINE-FICTIONAL-SIMULATION-NOT-AI",
+        "status": "complete",
+        "research_objectives": [],
+        "methodologies": [
+          {
+            "category": "methodology",
+            "statement": "FICTIONAL demonstration: a source passage contains Methodology:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 182,
+              "end_char": 272,
+              "quote": "Methodology:\nThis fictional demonstration uses a small FAQ corpus and a simulated class. D"
+            }
+          }
+        ],
+        "datasets": [
+          {
+            "category": "dataset",
+            "statement": "FICTIONAL demonstration: a source passage contains Dataset:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 271,
+              "end_char": 361,
+              "quote": "Dataset: 120 fabricated\nquestions. Finding: The mock system responded more consistently wh"
+            }
+          }
+        ],
+        "findings": [
+          {
+            "category": "finding",
+            "statement": "FICTIONAL demonstration: a source passage contains Finding:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 306,
+              "end_char": 396,
+              "quote": "Finding: The mock system responded more consistently when relevant examples were\nsupplied."
+            }
+          }
+        ],
+        "limitations": [
+          {
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 397,
+              "end_char": 445,
+              "quote": "Limitation: No evaluation was conducted in Urdu."
+            }
+          }
+        ],
+        "contributions": [],
+        "coverage": {
+          "total_chunks": 2,
+          "analyzed_chunks": 2,
+          "total_characters": 712,
+          "analyzed_characters": 712,
+          "truncated": false,
+          "batches_attempted": 1,
+          "batches_succeeded": 1
+        },
+        "warnings": []
+      },
+      {
+        "document_id": "a871ec156083989b",
+        "filename": "sample_multilingual_learning.pdf",
+        "title": "Fictional Study B: Multilingual Educational Chatbot",
+        "title_source": "pdf_metadata",
+        "model": "OFFLINE-FICTIONAL-SIMULATION-NOT-AI",
+        "status": "complete",
+        "research_objectives": [],
+        "methodologies": [
+          {
+            "category": "methodology",
+            "statement": "FICTIONAL demonstration: a source passage contains Methodology:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 171,
+              "end_char": 261,
+              "quote": "Methodology: A hypothetical\ninterface was evaluated with simulated English-language prompt"
+            }
+          }
+        ],
+        "datasets": [
+          {
+            "category": "dataset",
+            "statement": "FICTIONAL demonstration: a source passage contains Dataset:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 264,
+              "end_char": 354,
+              "quote": "Dataset: 80 fabricated prompts.\nFinding: The fictional model gave inconsistent responses t"
+            }
+          }
+        ],
+        "findings": [
+          {
+            "category": "finding",
+            "statement": "FICTIONAL demonstration: a source passage contains Finding:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 296,
+              "end_char": 386,
+              "quote": "Finding: The fictional model gave inconsistent responses to code-switched prompts. Limitat"
+            }
+          }
+        ],
+        "limitations": [
+          {
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 379,
+              "end_char": 430,
+              "quote": "Limitation: No\nreal-world user study was performed."
+            }
+          }
+        ],
+        "contributions": [],
+        "coverage": {
+          "total_chunks": 2,
+          "analyzed_chunks": 2,
+          "total_characters": 686,
+          "analyzed_characters": 686,
+          "truncated": false,
+          "batches_attempted": 1,
+          "batches_succeeded": 1
+        },
+        "warnings": []
+      },
+      {
+        "document_id": "9632237dbcacd62e",
+        "filename": "sample_student_feedback.pdf",
+        "title": "Fictional Study C: Automated Student Feedback",
+        "title_source": "pdf_metadata",
+        "model": "OFFLINE-FICTIONAL-SIMULATION-NOT-AI",
+        "status": "complete",
+        "research_objectives": [],
+        "methodologies": [
+          {
+            "category": "methodology",
+            "statement": "FICTIONAL demonstration: a source passage contains Methodology:",
+            "evidence": {
+              "document_id": "9632237dbcacd62e",
+              "filename": "sample_student_feedback.pdf",
+              "chunk_id": "9632237dbcacd62e:p1:c1",
+              "page_number": 1,
+              "start_char": 172,
+              "end_char": 262,
+              "quote": "Methodology:\nCompare two fictional prompt designs using simulated assignments. Dataset: 60"
+            }
+          }
+        ],
+        "datasets": [
+          {
+            "category": "dataset",
+            "statement": "FICTIONAL demonstration: a source passage contains Dataset:",
+            "evidence": {
+              "document_id": "9632237dbcacd62e",
+              "filename": "sample_student_feedback.pdf",
+              "chunk_id": "9632237dbcacd62e:p1:c1",
+              "page_number": 1,
+              "start_char": 251,
+              "end_char": 341,
+              "quote": "Dataset: 60 fabricated writing\nsamples. Finding: The toy examples varied in feedback speci"
+            }
+          }
+        ],
+        "findings": [
+          {
+            "category": "finding",
+            "statement": "FICTIONAL demonstration: a source passage contains Finding:",
+            "evidence": {
+              "document_id": "9632237dbcacd62e",
+              "filename": "sample_student_feedback.pdf",
+              "chunk_id": "9632237dbcacd62e:p1:c1",
+              "page_number": 1,
+              "start_char": 291,
+              "end_char": 380,
+              "quote": "Finding: The toy examples varied in feedback specificity. Limitation: No robustness tests"
+            }
+          }
+        ],
+        "limitations": [
+          {
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "9632237dbcacd62e",
+              "filename": "sample_student_feedback.pdf",
+              "chunk_id": "9632237dbcacd62e:p1:c1",
+              "page_number": 1,
+              "start_char": 349,
+              "end_char": 418,
+              "quote": "Limitation: No robustness tests or\nexternal validation were included."
+            }
+          }
+        ],
+        "contributions": [],
+        "coverage": {
+          "total_chunks": 2,
+          "analyzed_chunks": 2,
+          "total_characters": 651,
+          "analyzed_characters": 651,
+          "truncated": false,
+          "batches_attempted": 1,
+          "batches_succeeded": 1
+        },
+        "warnings": []
+      }
+    ],
+    "failures": []
+  },
+  "paper_comparison": {
+    "model": "OFFLINE-FICTIONAL-SIMULATION-NOT-AI",
+    "status": "complete",
+    "paper_count": 3,
+    "comparison_table": [
+      {
+        "document_id": "ea6c02ae9371990a",
+        "filename": "sample_education_rag.pdf",
+        "title": "Fictional Study A: Retrieval-Augmented Tutoring",
+        "analysis_status": "complete",
+        "objectives": [],
+        "methodologies": [
+          {
+            "fact_id": "p1_methodology_1",
+            "document_id": "ea6c02ae9371990a",
+            "filename": "sample_education_rag.pdf",
+            "category": "methodology",
+            "statement": "FICTIONAL demonstration: a source passage contains Methodology:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 182,
+              "end_char": 272,
+              "quote": "Methodology:\nThis fictional demonstration uses a small FAQ corpus and a simulated class. D"
+            }
+          }
+        ],
+        "datasets": [
+          {
+            "fact_id": "p1_dataset_1",
+            "document_id": "ea6c02ae9371990a",
+            "filename": "sample_education_rag.pdf",
+            "category": "dataset",
+            "statement": "FICTIONAL demonstration: a source passage contains Dataset:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 271,
+              "end_char": 361,
+              "quote": "Dataset: 120 fabricated\nquestions. Finding: The mock system responded more consistently wh"
+            }
+          }
+        ],
+        "findings": [
+          {
+            "fact_id": "p1_finding_1",
+            "document_id": "ea6c02ae9371990a",
+            "filename": "sample_education_rag.pdf",
+            "category": "finding",
+            "statement": "FICTIONAL demonstration: a source passage contains Finding:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 306,
+              "end_char": 396,
+              "quote": "Finding: The mock system responded more consistently when relevant examples were\nsupplied."
+            }
+          }
+        ],
+        "limitations": [
+          {
+            "fact_id": "p1_limitation_1",
+            "document_id": "ea6c02ae9371990a",
+            "filename": "sample_education_rag.pdf",
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 397,
+              "end_char": 445,
+              "quote": "Limitation: No evaluation was conducted in Urdu."
+            }
+          }
+        ],
+        "contributions": []
+      },
+      {
+        "document_id": "a871ec156083989b",
+        "filename": "sample_multilingual_learning.pdf",
+        "title": "Fictional Study B: Multilingual Educational Chatbot",
+        "analysis_status": "complete",
+        "objectives": [],
+        "methodologies": [
+          {
+            "fact_id": "p2_methodology_1",
+            "document_id": "a871ec156083989b",
+            "filename": "sample_multilingual_learning.pdf",
+            "category": "methodology",
+            "statement": "FICTIONAL demonstration: a source passage contains Methodology:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 171,
+              "end_char": 261,
+              "quote": "Methodology: A hypothetical\ninterface was evaluated with simulated English-language prompt"
+            }
+          }
+        ],
+        "datasets": [
+          {
+            "fact_id": "p2_dataset_1",
+            "document_id": "a871ec156083989b",
+            "filename": "sample_multilingual_learning.pdf",
+            "category": "dataset",
+            "statement": "FICTIONAL demonstration: a source passage contains Dataset:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 264,
+              "end_char": 354,
+              "quote": "Dataset: 80 fabricated prompts.\nFinding: The fictional model gave inconsistent responses t"
+            }
+          }
+        ],
+        "findings": [
+          {
+            "fact_id": "p2_finding_1",
+            "document_id": "a871ec156083989b",
+            "filename": "sample_multilingual_learning.pdf",
+            "category": "finding",
+            "statement": "FICTIONAL demonstration: a source passage contains Finding:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 296,
+              "end_char": 386,
+              "quote": "Finding: The fictional model gave inconsistent responses to code-switched prompts. Limitat"
+            }
+          }
+        ],
+        "limitations": [
+          {
+            "fact_id": "p2_limitation_1",
+            "document_id": "a871ec156083989b",
+            "filename": "sample_multilingual_learning.pdf",
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 379,
+              "end_char": 430,
+              "quote": "Limitation: No\nreal-world user study was performed."
+            }
+          }
+        ],
+        "contributions": []
+      },
+      {
+        "document_id": "9632237dbcacd62e",
+        "filename": "sample_student_feedback.pdf",
+        "title": "Fictional Study C: Automated Student Feedback",
+        "analysis_status": "complete",
+        "objectives": [],
+        "methodologies": [
+          {
+            "fact_id": "p3_methodology_1",
+            "document_id": "9632237dbcacd62e",
+            "filename": "sample_student_feedback.pdf",
+            "category": "methodology",
+            "statement": "FICTIONAL demonstration: a source passage contains Methodology:",
+            "evidence": {
+              "document_id": "9632237dbcacd62e",
+              "filename": "sample_student_feedback.pdf",
+              "chunk_id": "9632237dbcacd62e:p1:c1",
+              "page_number": 1,
+              "start_char": 172,
+              "end_char": 262,
+              "quote": "Methodology:\nCompare two fictional prompt designs using simulated assignments. Dataset: 60"
+            }
+          }
+        ],
+        "datasets": [
+          {
+            "fact_id": "p3_dataset_1",
+            "document_id": "9632237dbcacd62e",
+            "filename": "sample_student_feedback.pdf",
+            "category": "dataset",
+            "statement": "FICTIONAL demonstration: a source passage contains Dataset:",
+            "evidence": {
+              "document_id": "9632237dbcacd62e",
+              "filename": "sample_student_feedback.pdf",
+              "chunk_id": "9632237dbcacd62e:p1:c1",
+              "page_number": 1,
+              "start_char": 251,
+              "end_char": 341,
+              "quote": "Dataset: 60 fabricated writing\nsamples. Finding: The toy examples varied in feedback speci"
+            }
+          }
+        ],
+        "findings": [
+          {
+            "fact_id": "p3_finding_1",
+            "document_id": "9632237dbcacd62e",
+            "filename": "sample_student_feedback.pdf",
+            "category": "finding",
+            "statement": "FICTIONAL demonstration: a source passage contains Finding:",
+            "evidence": {
+              "document_id": "9632237dbcacd62e",
+              "filename": "sample_student_feedback.pdf",
+              "chunk_id": "9632237dbcacd62e:p1:c1",
+              "page_number": 1,
+              "start_char": 291,
+              "end_char": 380,
+              "quote": "Finding: The toy examples varied in feedback specificity. Limitation: No robustness tests"
+            }
+          }
+        ],
+        "limitations": [
+          {
+            "fact_id": "p3_limitation_1",
+            "document_id": "9632237dbcacd62e",
+            "filename": "sample_student_feedback.pdf",
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "9632237dbcacd62e",
+              "filename": "sample_student_feedback.pdf",
+              "chunk_id": "9632237dbcacd62e:p1:c1",
+              "page_number": 1,
+              "start_char": 349,
+              "end_char": 418,
+              "quote": "Limitation: No robustness tests or\nexternal validation were included."
+            }
+          }
+        ],
+        "contributions": []
+      }
+    ],
+    "insights": [
+      {
+        "kind": "shared_limitation",
+        "statement": "FICTIONAL demonstration: two papers contain stated limitations.",
+        "cited_facts": [
+          {
+            "fact_id": "p1_limitation_1",
+            "document_id": "ea6c02ae9371990a",
+            "filename": "sample_education_rag.pdf",
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 397,
+              "end_char": 445,
+              "quote": "Limitation: No evaluation was conducted in Urdu."
+            }
+          },
+          {
+            "fact_id": "p2_limitation_1",
+            "document_id": "a871ec156083989b",
+            "filename": "sample_multilingual_learning.pdf",
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 379,
+              "end_char": 430,
+              "quote": "Limitation: No\nreal-world user study was performed."
+            }
+          }
+        ]
+      }
+    ],
+    "coverage": {
+      "total_source_facts": 12,
+      "facts_sent_to_llm": 12,
+      "input_characters": 3965,
+      "truncated": false,
+      "included_document_count": 3
+    },
+    "warnings": []
+  },
+  "research_gaps": {
+    "model": "OFFLINE-FICTIONAL-SIMULATION-NOT-AI",
+    "status": "complete",
+    "comparison_status": "complete",
+    "paper_count": 3,
+    "gaps": [
+      {
+        "gap_id": "gap_01",
+        "kind": "shared_limitation",
+        "title": "Fictional evaluation opportunity for follow-up research",
+        "rationale": "Simulation only: source-quoted limitations suggest a topic to investigate further.",
+        "cited_facts": [
+          {
+            "fact_id": "p1_limitation_1",
+            "document_id": "ea6c02ae9371990a",
+            "filename": "sample_education_rag.pdf",
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 397,
+              "end_char": 445,
+              "quote": "Limitation: No evaluation was conducted in Urdu."
+            }
+          },
+          {
+            "fact_id": "p2_limitation_1",
+            "document_id": "a871ec156083989b",
+            "filename": "sample_multilingual_learning.pdf",
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 379,
+              "end_char": 430,
+              "quote": "Limitation: No\nreal-world user study was performed."
+            }
+          }
+        ],
+        "research_questions": [
+          {
+            "text": "How do the approaches perform in a controlled follow-up experiment?"
+          }
+        ],
+        "importance": "medium",
+        "importance_reason": "A larger evaluation might help clarify the noted limitations.",
+        "feasibility": "medium",
+        "feasibility_reason": "The study would require time, data, and external review.",
+        "literature_verification": "not_performed",
+        "novelty_established": false
+      },
+      {
+        "gap_id": "gap_02",
+        "kind": "methodological_extension",
+        "title": "Fictional evaluation opportunity for follow-up research",
+        "rationale": "Simulation only: source-quoted limitations suggest a topic to investigate further.",
+        "cited_facts": [
+          {
+            "fact_id": "p1_limitation_1",
+            "document_id": "ea6c02ae9371990a",
+            "filename": "sample_education_rag.pdf",
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 397,
+              "end_char": 445,
+              "quote": "Limitation: No evaluation was conducted in Urdu."
+            }
+          },
+          {
+            "fact_id": "p2_methodology_1",
+            "document_id": "a871ec156083989b",
+            "filename": "sample_multilingual_learning.pdf",
+            "category": "methodology",
+            "statement": "FICTIONAL demonstration: a source passage contains Methodology:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 171,
+              "end_char": 261,
+              "quote": "Methodology: A hypothetical\ninterface was evaluated with simulated English-language prompt"
+            }
+          }
+        ],
+        "research_questions": [
+          {
+            "text": "How do the approaches perform in a controlled follow-up experiment?"
+          }
+        ],
+        "importance": "medium",
+        "importance_reason": "A larger evaluation might help clarify the noted limitations.",
+        "feasibility": "medium",
+        "feasibility_reason": "The study would require time, data, and external review.",
+        "literature_verification": "not_performed",
+        "novelty_established": false
+      },
+      {
+        "gap_id": "gap_03",
+        "kind": "dataset_coverage",
+        "title": "Fictional evaluation opportunity for follow-up research",
+        "rationale": "Simulation only: source-quoted limitations suggest a topic to investigate further.",
+        "cited_facts": [
+          {
+            "fact_id": "p1_limitation_1",
+            "document_id": "ea6c02ae9371990a",
+            "filename": "sample_education_rag.pdf",
+            "category": "limitation",
+            "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+            "evidence": {
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "chunk_id": "ea6c02ae9371990a:p1:c1",
+              "page_number": 1,
+              "start_char": 397,
+              "end_char": 445,
+              "quote": "Limitation: No evaluation was conducted in Urdu."
+            }
+          },
+          {
+            "fact_id": "p2_dataset_1",
+            "document_id": "a871ec156083989b",
+            "filename": "sample_multilingual_learning.pdf",
+            "category": "dataset",
+            "statement": "FICTIONAL demonstration: a source passage contains Dataset:",
+            "evidence": {
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "chunk_id": "a871ec156083989b:p1:c1",
+              "page_number": 1,
+              "start_char": 264,
+              "end_char": 354,
+              "quote": "Dataset: 80 fabricated prompts.\nFinding: The fictional model gave inconsistent responses t"
+            }
+          }
+        ],
+        "research_questions": [
+          {
+            "text": "How do the approaches perform in a controlled follow-up experiment?"
+          }
+        ],
+        "importance": "medium",
+        "importance_reason": "A larger evaluation might help clarify the noted limitations.",
+        "feasibility": "medium",
+        "feasibility_reason": "The study would require time, data, and external review.",
+        "literature_verification": "not_performed",
+        "novelty_established": false
+      }
+    ],
+    "coverage": {
+      "total_source_facts": 12,
+      "facts_sent_to_llm": 12,
+      "input_characters": 4261,
+      "truncated": false,
+      "included_document_count": 3,
+      "eligible_comparison_insights_used": 1
+    },
+    "warnings": [],
+    "literature_verification": "not_performed"
+  },
+  "literature_verification": {
+    "source": "OpenAlex",
+    "model": "FICTIONAL-NO-EXTERNAL-LLM",
+    "status": "complete",
+    "discovery_status": "complete",
+    "gap_discovery": {
+      "model": "OFFLINE-FICTIONAL-SIMULATION-NOT-AI",
+      "status": "complete",
+      "comparison_status": "complete",
+      "paper_count": 3,
+      "gaps": [
+        {
+          "gap_id": "gap_01",
+          "kind": "shared_limitation",
+          "title": "Fictional evaluation opportunity for follow-up research",
+          "rationale": "Simulation only: source-quoted limitations suggest a topic to investigate further.",
+          "cited_facts": [
+            {
+              "fact_id": "p1_limitation_1",
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "category": "limitation",
+              "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+              "evidence": {
+                "document_id": "ea6c02ae9371990a",
+                "filename": "sample_education_rag.pdf",
+                "chunk_id": "ea6c02ae9371990a:p1:c1",
+                "page_number": 1,
+                "start_char": 397,
+                "end_char": 445,
+                "quote": "Limitation: No evaluation was conducted in Urdu."
+              }
+            },
+            {
+              "fact_id": "p2_limitation_1",
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "category": "limitation",
+              "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+              "evidence": {
+                "document_id": "a871ec156083989b",
+                "filename": "sample_multilingual_learning.pdf",
+                "chunk_id": "a871ec156083989b:p1:c1",
+                "page_number": 1,
+                "start_char": 379,
+                "end_char": 430,
+                "quote": "Limitation: No\nreal-world user study was performed."
+              }
+            }
+          ],
+          "research_questions": [
+            {
+              "text": "How do the approaches perform in a controlled follow-up experiment?"
+            }
+          ],
+          "importance": "medium",
+          "importance_reason": "A larger evaluation might help clarify the noted limitations.",
+          "feasibility": "medium",
+          "feasibility_reason": "The study would require time, data, and external review.",
+          "literature_verification": "not_performed",
+          "novelty_established": false
+        },
+        {
+          "gap_id": "gap_02",
+          "kind": "methodological_extension",
+          "title": "Fictional evaluation opportunity for follow-up research",
+          "rationale": "Simulation only: source-quoted limitations suggest a topic to investigate further.",
+          "cited_facts": [
+            {
+              "fact_id": "p1_limitation_1",
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "category": "limitation",
+              "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+              "evidence": {
+                "document_id": "ea6c02ae9371990a",
+                "filename": "sample_education_rag.pdf",
+                "chunk_id": "ea6c02ae9371990a:p1:c1",
+                "page_number": 1,
+                "start_char": 397,
+                "end_char": 445,
+                "quote": "Limitation: No evaluation was conducted in Urdu."
+              }
+            },
+            {
+              "fact_id": "p2_methodology_1",
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "category": "methodology",
+              "statement": "FICTIONAL demonstration: a source passage contains Methodology:",
+              "evidence": {
+                "document_id": "a871ec156083989b",
+                "filename": "sample_multilingual_learning.pdf",
+                "chunk_id": "a871ec156083989b:p1:c1",
+                "page_number": 1,
+                "start_char": 171,
+                "end_char": 261,
+                "quote": "Methodology: A hypothetical\ninterface was evaluated with simulated English-language prompt"
+              }
+            }
+          ],
+          "research_questions": [
+            {
+              "text": "How do the approaches perform in a controlled follow-up experiment?"
+            }
+          ],
+          "importance": "medium",
+          "importance_reason": "A larger evaluation might help clarify the noted limitations.",
+          "feasibility": "medium",
+          "feasibility_reason": "The study would require time, data, and external review.",
+          "literature_verification": "not_performed",
+          "novelty_established": false
+        },
+        {
+          "gap_id": "gap_03",
+          "kind": "dataset_coverage",
+          "title": "Fictional evaluation opportunity for follow-up research",
+          "rationale": "Simulation only: source-quoted limitations suggest a topic to investigate further.",
+          "cited_facts": [
+            {
+              "fact_id": "p1_limitation_1",
+              "document_id": "ea6c02ae9371990a",
+              "filename": "sample_education_rag.pdf",
+              "category": "limitation",
+              "statement": "FICTIONAL demonstration: a source passage contains Limitation:",
+              "evidence": {
+                "document_id": "ea6c02ae9371990a",
+                "filename": "sample_education_rag.pdf",
+                "chunk_id": "ea6c02ae9371990a:p1:c1",
+                "page_number": 1,
+                "start_char": 397,
+                "end_char": 445,
+                "quote": "Limitation: No evaluation was conducted in Urdu."
+              }
+            },
+            {
+              "fact_id": "p2_dataset_1",
+              "document_id": "a871ec156083989b",
+              "filename": "sample_multilingual_learning.pdf",
+              "category": "dataset",
+              "statement": "FICTIONAL demonstration: a source passage contains Dataset:",
+              "evidence": {
+                "document_id": "a871ec156083989b",
+                "filename": "sample_multilingual_learning.pdf",
+                "chunk_id": "a871ec156083989b:p1:c1",
+                "page_number": 1,
+                "start_char": 264,
+                "end_char": 354,
+                "quote": "Dataset: 80 fabricated prompts.\nFinding: The fictional model gave inconsistent responses t"
+              }
+            }
+          ],
+          "research_questions": [
+            {
+              "text": "How do the approaches perform in a controlled follow-up experiment?"
+            }
+          ],
+          "importance": "medium",
+          "importance_reason": "A larger evaluation might help clarify the noted limitations.",
+          "feasibility": "medium",
+          "feasibility_reason": "The study would require time, data, and external review.",
+          "literature_verification": "not_performed",
+          "novelty_established": false
+        }
+      ],
+      "coverage": {
+        "total_source_facts": 12,
+        "facts_sent_to_llm": 12,
+        "input_characters": 4261,
+        "truncated": false,
+        "included_document_count": 3,
+        "eligible_comparison_insights_used": 1
+      },
+      "warnings": [],
+      "literature_verification": "not_performed"
+    },
+    "verifications": [
+      {
+        "gap_id": "gap_01",
+        "title": "Fictional evaluation opportunity for follow-up research",
+        "status": "challenged",
+        "search_queries": [
+          "fictional opportunity follow-up",
+          "approaches perform controlled follow-up"
+        ],
+        "searches_attempted": 2,
+        "searches_succeeded": 2,
+        "works_retrieved": 1,
+        "works_reviewed": 1,
+        "works": [
+          {
+            "openalex_id": "W10000000",
+            "title": "FICTIONAL study of limitations in academic systems",
+            "url": "https://openalex.org/W10000000",
+            "publication_year": 2024,
+            "doi": null,
+            "abstract": "This fictional paper evaluates limitations in academic systems using a controlled follow-up experiment with multiple data sources.",
+            "cited_by_count": null
+          }
+        ],
+        "assessments": [
+          {
+            "openalex_id": "W10000000",
+            "relevance": "potentially_addresses",
+            "reasoning": "Offline demonstration: fictional abstract overlaps the simulated question.",
+            "evidence_quote": "This fictional paper evaluates limitations in academic systems using a controlled follow-up experiment with multiple data sources."
+          }
+        ],
+        "warnings": [
+          "A retrieved abstract may challenge this proposed gap; a researcher must inspect the full paper."
+        ],
+        "novelty_established": false,
+        "human_review_required": true
+      },
+      {
+        "gap_id": "gap_02",
+        "title": "Fictional evaluation opportunity for follow-up research",
+        "status": "challenged",
+        "search_queries": [
+          "fictional opportunity follow-up",
+          "approaches perform controlled follow-up"
+        ],
+        "searches_attempted": 2,
+        "searches_succeeded": 2,
+        "works_retrieved": 1,
+        "works_reviewed": 1,
+        "works": [
+          {
+            "openalex_id": "W10000000",
+            "title": "FICTIONAL study of limitations in academic systems",
+            "url": "https://openalex.org/W10000000",
+            "publication_year": 2024,
+            "doi": null,
+            "abstract": "This fictional paper evaluates limitations in academic systems using a controlled follow-up experiment with multiple data sources.",
+            "cited_by_count": null
+          }
+        ],
+        "assessments": [
+          {
+            "openalex_id": "W10000000",
+            "relevance": "potentially_addresses",
+            "reasoning": "Offline demonstration: fictional abstract overlaps the simulated question.",
+            "evidence_quote": "This fictional paper evaluates limitations in academic systems using a controlled follow-up experiment with multiple data sources."
+          }
+        ],
+        "warnings": [
+          "A retrieved abstract may challenge this proposed gap; a researcher must inspect the full paper."
+        ],
+        "novelty_established": false,
+        "human_review_required": true
+      },
+      {
+        "gap_id": "gap_03",
+        "title": "Fictional evaluation opportunity for follow-up research",
+        "status": "challenged",
+        "search_queries": [
+          "fictional opportunity follow-up",
+          "approaches perform controlled follow-up"
+        ],
+        "searches_attempted": 2,
+        "searches_succeeded": 2,
+        "works_retrieved": 1,
+        "works_reviewed": 1,
+        "works": [
+          {
+            "openalex_id": "W10000000",
+            "title": "FICTIONAL study of limitations in academic systems",
+            "url": "https://openalex.org/W10000000",
+            "publication_year": 2024,
+            "doi": null,
+            "abstract": "This fictional paper evaluates limitations in academic systems using a controlled follow-up experiment with multiple data sources.",
+            "cited_by_count": null
+          }
+        ],
+        "assessments": [
+          {
+            "openalex_id": "W10000000",
+            "relevance": "potentially_addresses",
+            "reasoning": "Offline demonstration: fictional abstract overlaps the simulated question.",
+            "evidence_quote": "This fictional paper evaluates limitations in academic systems using a controlled follow-up experiment with multiple data sources."
+          }
+        ],
+        "warnings": [
+          "A retrieved abstract may challenge this proposed gap; a researcher must inspect the full paper."
+        ],
+        "novelty_established": false,
+        "human_review_required": true
+      }
+    ],
+    "warnings": [],
+    "novelty_established": false,
+    "human_review_required": true
+  },
+  "workflow": null
+}
